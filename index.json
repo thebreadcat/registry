@@ -2841,7 +2841,7 @@
       "total_size_bytes": 1381445,
       "source_repo": "thebreadcat/openpeon-tf2-spy",
       "source_ref": "v1.0.1",
-      "source_path": "openpeon-tf2-spy-1.0.1",
+      "source_path": ".",
       "manifest_sha256": "69f13fbf23b45ea515a90f032ae5ee2a1b05b0490d546acbbd2d8c0508cade35",
       "tags": [
         "gaming",
