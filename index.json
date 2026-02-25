@@ -3515,7 +3515,7 @@
      {
       "name": "tf2_pyro",
       "display_name": "TF2 Pyro",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "TF2 Pyro sound pack from Team Fortress 2",
       "author": {
         "name": "Breadcat",
@@ -3538,7 +3538,7 @@
       "sound_count": 27,
       "total_size_bytes": 5222535,
       "source_repo": "thebreadcat/tf2-pyro-pack",
-      "source_ref": "v1.0.0",
+      "source_ref": "v1.0.1",
       "source_path": ".",
       "manifest_sha256": "0d42f785375c17c244606328dab171524d349a39208d5670c5c76a903b296448",
       "tags": [
