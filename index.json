@@ -3512,6 +3512,49 @@
       "added": "2026-02-19",
       "updated": "2026-02-19"
     },
+     {
+      "name": "tf2_pyro",
+      "display_name": "TF2 Pyro",
+      "version": "1.0.0",
+      "description": "TF2 Pyro sound pack from Team Fortress 2",
+      "author": {
+        "name": "Breadcat",
+        "github": "thebreadcat"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "session.end",
+        "task.acknowledge",
+        "task.progress",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 27,
+      "total_size_bytes": 5222535,
+      "source_repo": "thebreadcat/tf2-pyro-pack",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "9033176977742c73f6b9569c86de76cef5a6d14b",
+      "tags": [
+        "gaming",
+        "tf2",
+        "valve",
+        "fps",
+        "heavy"
+      ],
+      "preview_sounds": [
+        "pyro_battlecry01.mp3",
+        "pyro_thanks01.mp3"
+      ],
+      "added": "2026-02-25",
+      "updated": "2026-02-25"
+    },
     {
   "name": "tf2_sniper",
   "display_name": "TF2 Sniper",
