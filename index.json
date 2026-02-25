@@ -320,6 +320,41 @@
       "updated": "2026-02-12"
     },
     {
+      "name": "arc_raiders",
+      "display_name": "Arc Raiders Pack",
+      "version": "1.0.0",
+      "description": "Arc Raiders sound effects",
+      "author": { 
+        "name": "A3mercury", 
+        "github": "A3mercury" 
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "session.end"
+       ],
+      "language": "en",
+      "license": "MCC-BY-NC-4.0T",
+      "sound_count": 7,
+      "total_size_bytes": 1100000,
+      "source_repo": "A3mercury/openpeon-arcraiders",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "3df840bfb19b6815cfae30c0192c587d411b86e9d9b9fc7a63e0216848ed76ed",
+      "tags": ["gaming", "arc", "goop"],
+      "preview_sounds": [
+        "TracingVictory.mp3", 
+        "Blueprint.mp3"
+      ],
+      "added": "2026-02-20",
+      "updated": "2026-02-20"
+    },
+    {
       "name": "arnold",
       "display_name": "Arnold Schwarzenegger",
       "version": "1.0.0",
@@ -358,6 +393,47 @@
       ],
       "added": "2026-02-17",
       "updated": "2026-02-17"
+    },
+    {
+      "name": "arthas_ru",
+      "display_name": "Артас Рыцарь Смерти (Russian)",
+      "version": "1.0.0",
+      "description": "WC3 Death Knight Arthas — all 20 Russian voice lines mapped to CESP categories",
+      "author": {
+        "name": "samokay",
+        "github": "samokay"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "ru",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 20,
+      "total_size_bytes": 8633344,
+      "source_repo": "samokay/arthas_ru",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "391eec37a929112db5106a59809d4282f9c1071de110a09783baba7626ed3d85",
+      "tags": [
+        "gaming",
+        "warcraft",
+        "russian",
+        "arthas",
+        "death-knight"
+      ],
+      "preview_sounds": [
+        "frostmourne_hungers.wav",
+        "for_the_lich_king.wav"
+      ],
+      "added": "2026-02-22",
+      "updated": "2026-02-22"
     },
     {
       "name": "brewmaster_ru",
@@ -635,6 +711,53 @@
       ],
       "added": "2026-02-19",
       "updated": "2026-02-19"
+    },
+    {
+      "name": "cortana",
+      "display_name": "Cortana",
+      "version": "1.0.3",
+      "description": "Cortana from Halo",
+      "author": {
+        "name": "A3mercury",
+        "github": "A3mercury"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 11,
+      "total_size_bytes": 699000,
+      "source_repo": "A3mercury/openpeon-cortana",
+      "source_ref": "v1.0.3",
+      "source_path": ".",
+      "manifest_sha256": "f34e11d8e904411e4d7c6e84d49744b98557156d7cd6b66cc8e987d2f427da22",
+      "tags": [
+        "gaming",
+        "halo",
+        "cortana"
+      ],
+      "preview_sounds": [
+        "MissMe.mp3",
+        "Answer.mp3",
+        "AlreadyBegun.mp3",
+        "Scanning.mp3",
+        "Ride.mp3",
+        "LocatedPillar.mp3",
+        "ThreatLevel1.mp3",
+        "SleepWell.mp3",
+        "TakeTooLong.mp3",
+        "WhatAreYouDoing.mp3"
+      ],
+      "added": "2026-02-20",
+      "updated": "2026-02-20"
     },
     {
       "name": "counterstrike",
@@ -1271,6 +1394,46 @@
       "updated": "2026-02-12"
     },
     {
+      "name": "hal_2001",
+      "display_name": "HAL 9000 (2001: A Space Odyssey)",
+      "version": "1.0.0",
+      "description": "I'm sorry, Dave. I'm afraid I can't do that. Audio clips from HAL 9000 in 2001: A Space Odyssey.",
+      "author": {
+        "name": "jq",
+        "github": "jquintus"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 17,
+      "total_size_bytes": 721994,
+      "source_repo": "jquintus/openpeon-hal-2001",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "984aa115db965f6a8eedfad06757bf69060a501dc8b5a28092ddc3431ddbf228",
+      "tags": [
+        "sci-fi",
+        "movie",
+        "kubrick",
+        "hal9000",
+        "space"
+      ],
+      "preview_sounds": [
+        "open_the_pod_bay_doors_hal_sorry_dave.wav",
+        "good_evening.wav"
+      ],
+      "added": "2026-02-20",
+      "updated": "2026-02-20"
+    },
+    {
       "name": "hd2_helldiver",
       "display_name": "Helldiver (Helldivers 2)",
       "version": "1.0.0",
@@ -1420,6 +1583,44 @@
       "updated": "2026-02-17"
     },
     {
+      "name": "minecraft_villager",
+      "display_name": "Minecraft Villager",
+      "version": "1.0.1",
+      "description": "Villager sound pack from Minecraft.",
+      "author": {
+        "name": "Eric Keränen",
+        "github": "Mahamurahti"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 19,
+      "total_size_bytes": 118573,
+      "source_repo": "Mahamurahti/openpeon-minecraft-villager",
+      "source_ref": "v1.0.1",
+      "source_path": ".",
+      "manifest_sha256": "16f5fc57cf0928dc2a3943c80fc41561ed5ad252b5b79a3537fa6dd9d6339217",
+      "tags": [
+        "gaming",
+        "minecraft",
+        "mojang"
+      ],
+      "preview_sounds": [
+        "villager_idle1.ogg",
+        "villager_accept1.ogg"
+      ],
+      "added": "2026-02-24",
+      "updated": "2026-02-24"
+    },
+    {
       "name": "molag_bal",
       "display_name": "Molag Bal",
       "version": "1.0.0",
@@ -1457,6 +1658,44 @@
       ],
       "added": "2026-02-12",
       "updated": "2026-02-12"
+    },
+    {
+      "name": "mr_meeseeks",
+      "display_name": "Mr. Meeseeks (Rick and Morty)",
+      "version": "1.0.0",
+      "description": "Look at me! Mr. Meeseeks voice lines from Rick and Morty. Can do!",
+      "author": {
+        "name": "kasperhendriks",
+        "github": "kasperhendriks"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.complete",
+        "task.error",
+        "input.required"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 30,
+      "total_size_bytes": 1246342,
+      "source_repo": "kasperhendriks/openpeon-mrmeeseeks",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "94f038d50b963eefec3892a5dafef7930d5b23ec229fbefa1bd790e80965ca34",
+      "tags": [
+        "tv",
+        "animation",
+        "comedy",
+        "rick-and-morty"
+      ],
+      "preview_sounds": [
+        "sounds/im_mr_meeseeks_look_at_me.mp3",
+        "sounds/can_do.mp3",
+        "sounds/all_done.mp3"
+      ],
+      "added": "2026-02-20",
+      "updated": "2026-02-20"
     },
     {
       "name": "murloc",
@@ -1534,6 +1773,47 @@
       ],
       "added": "2026-02-12",
       "updated": "2026-02-12"
+    },
+    {
+      "name": "omar",
+      "display_name": "Omar Little (The Wire)",
+      "version": "1.1.0",
+      "description": "Omar comin'. Iconic Omar Little lines from The Wire.",
+      "author": {
+        "name": "Taylan Aydinli",
+        "github": "taylan"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 32,
+      "total_size_bytes": 1075304,
+      "source_repo": "taylan/openpeon-omar",
+      "source_ref": "v1.1.0",
+      "source_path": ".",
+      "manifest_sha256": "aa085fa9824dfd3d78676205346368c59d24969b6e86067b5800a9f736b5e32b",
+      "tags": [
+        "tv",
+        "the-wire",
+        "hbo"
+      ],
+      "preview_sounds": [
+        "come-at-the-king.mp3",
+        "indeed.mp3"
+      ],
+      "added": "2026-02-20",
+      "updated": "2026-02-21"
     },
     {
       "name": "peasant",
@@ -2308,6 +2588,44 @@
       "updated": "2026-02-12"
     },
     {
+      "name": "sc2_carrier",
+      "display_name": "Carrier (StarCraft II)",
+      "version": "1.0.0",
+      "description": "Protoss Carrier unit voice lines from StarCraft II",
+      "author": {
+        "name": "Bryce Evans",
+        "github": "bryce-evans"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required"
+      ],
+      "language": "en",
+      "license": "Fair Use",
+      "sound_count": 7,
+      "total_size_bytes": 214331,
+      "source_repo": "bryce-evans/openpeon-sc2-carrier",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "6a55be29c99b933e022586fd929f48519db7d3bd4ac7c54f8e461d6eafc9dd2e",
+      "tags": [
+        "gaming",
+        "starcraft",
+        "protoss",
+        "blizzard"
+      ],
+      "preview_sounds": [
+        "carrier-has-arrived.mp3",
+        "we-are-ready.ogg"
+      ],
+      "added": "2026-02-20",
+      "updated": "2026-02-20"
+    },
+    {
       "name": "sc2_stalker",
       "display_name": "Stalker (StarCraft II)",
       "version": "1.1.0",
@@ -2463,6 +2781,46 @@
       "updated": "2026-02-12"
     },
     {
+      "name": "sc_marine",
+      "display_name": "StarCraft Marine",
+      "version": "1.0.0",
+      "description": "StarCraft Marine sound pack \u2014 iconic lines including 'Rock 'n' roll!' and 'You want a piece of me, boy?'",
+      "author": {
+        "name": "harrymunro",
+        "github": "harrymunro"
+      },
+      "trust_tier": "official",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 16,
+      "total_size_bytes": 329257,
+      "source_repo": "PeonPing/og-packs",
+      "source_ref": "v1.2.0",
+      "source_path": "sc_marine",
+      "manifest_sha256": "ff50155f9a8741268ca8d97ff8f8c65c7e7004e7faf1e71da5994f451066ffd6",
+      "tags": [
+        "gaming",
+        "starcraft",
+        "blizzard",
+        "rts"
+      ],
+      "preview_sounds": [
+        "YouWannaPieceOfMe.mp3",
+        "RockAndRoll.mp3"
+      ],
+      "added": "2026-02-20",
+      "updated": "2026-02-20"
+    },
+    {
       "name": "sc_medic",
       "display_name": "StarCraft Medic",
       "version": "1.0.0",
@@ -2502,27 +2860,30 @@
     {
       "name": "sc_scv",
       "display_name": "StarCraft SCV",
-      "version": "1.0.0",
-      "description": "StarCraft SCV sound pack from StarCraft",
+      "version": "2.0.0",
+      "description": "StarCraft SCV sound pack \u2014 expanded with 19 sounds across all 7 CESP categories",
       "author": {
-        "name": "workdd",
-        "github": "workdd"
+        "name": "harrymunro",
+        "github": "harrymunro"
       },
       "trust_tier": "official",
       "categories": [
         "session.start",
         "task.acknowledge",
         "task.complete",
-        "input.required"
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
       ],
       "language": "en",
       "license": "CC-BY-NC-4.0",
-      "sound_count": 8,
-      "total_size_bytes": 139424,
+      "sound_count": 19,
+      "total_size_bytes": 414515,
       "source_repo": "PeonPing/og-packs",
-      "source_ref": "v1.0.0",
+      "source_ref": "v1.2.0",
       "source_path": "sc_scv",
-      "manifest_sha256": "c8336067ff6a8d2283793aa5470437fca410216d15ecff7c5a9fcaa5259b2d39",
+      "manifest_sha256": "012352bc93f2f722fa2e39574e90ec488f8c827712c6da884966e07ea495a7ec",
       "tags": [
         "gaming",
         "starcraft",
@@ -2534,7 +2895,7 @@
         "GoodToGoSir.mp3"
       ],
       "added": "2026-02-12",
-      "updated": "2026-02-12"
+      "updated": "2026-02-20"
     },
     {
       "name": "sc_tank",
@@ -2947,6 +3308,45 @@
       "updated": "2026-02-13"
     },
     {
+      "name": "starrail-kafka-peon-pack",
+      "display_name": "\u5D29\u574F\u661F\u7A79\u94C1\u9053\u002D\u5361\u8299\u5361\u8BED\u97F3\u5305",
+      "version": "1.0.1",
+      "description": "\u5D29\u574F\u661F\u7A79\u94C1\u9053\u002D\u5361\u8299\u5361\u8BED\u97F3\u5305",
+      "author": {
+        "name": "0w0miki",
+        "github": "0w0miki"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "session.end",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "zh",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 22,
+      "total_size_bytes": 7709704,
+      "source_repo": "0w0miki/starrail-Kafka-peon-pack",
+      "source_ref": "v1.0.1",
+      "source_path": ".",
+      "manifest_sha256": "0bac778f75f0443251f717341116b3edea5ee69aaa7de42df919706c4f7a6ce8",
+      "tags": [
+        "gaming",
+        "starrail"
+      ],
+      "preview_sounds": [
+        "hi.wav",
+        "time-end.wav"
+      ],
+      "added": "2026-02-23",
+      "updated": "2026-02-23"
+    },
+    {
       "name": "tekken3_announcer",
       "display_name": "Announcer (Tekken 3)",
       "version": "1.0.0",
@@ -3028,6 +3428,49 @@
   "updated": "2026-02-19"
 },
     {
+      "name": "tf2_demoman",
+      "display_name": "TF2 Demoman",
+      "version": "1.0.0",
+      "description": "TF2 Demoman sound pack from Team Fortress 2",
+      "author": {
+        "name": "Breadcat",
+        "github": "thebreadcat"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "session.end",
+        "task.acknowledge",
+        "task.progress",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 67,
+      "total_size_bytes": 2920947,
+      "source_repo": "thebreadcat/openpeon-tf2-demoman",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "5fe0b7ea4e1b0f4e6486403400b714f7d186a456e62ff210691626ed33f1a1f0",
+      "tags": [
+        "gaming",
+        "tf2",
+        "valve",
+        "fps"
+      ],
+      "preview_sounds": [
+        "demoman_battlecry01.mp3",
+        "demoman_goodjob01.mp3",
+        "demoman_autoonfire01.mp3"
+      ],
+      "added": "2026-02-19",
+      "updated": "2026-02-19"
+    },
+    {
       "name": "tf2_engineer",
       "display_name": "TF2 Engineer",
       "version": "1.0.0",
@@ -3068,50 +3511,50 @@
       "updated": "2026-02-12"
     },
     {
-  "name": "tf2_heavy",
-  "display_name": "TF2 Heavy",
-  "version": "1.0.0",
-  "description": "TF2 Heavy sound pack from Team Fortress 2",
-  "author": {
-    "name": "Breadcat",
-    "github": "thebreadcat"
-  },
-  "trust_tier": "community",
-  "categories": [
-    "session.start",
-    "session.end",
-    "task.acknowledge",
-    "task.progress",
-    "task.complete",
-    "task.error",
-    "input.required",
-    "resource.limit",
-    "user.spam"
-  ],
-  "language": "en",
-  "license": "CC-BY-NC-4.0",
-  "sound_count": 113,
-  "total_size_bytes": 5222535,
-  "source_repo": "thebreadcat/tf2-heavy-pack",
-  "source_ref": "v1.0.0",
-  "source_path": ".",
-  "manifest_sha256": "3bf5c407fa3bd703762d4de2e9ab6eb6d92cf8283d69e6b6cbcdfdc9a8cc6c4c",
-  "tags": [
-    "gaming",
-    "tf2",
-    "valve",
-    "fps",
-    "heavy"
-  ],
-  "preview_sounds": [
-    "heavy_go01.mp3",
-    "heavy_thanks01.mp3",
-    "heavy_goodjob02.mp3",
-    "heavy_battlecry03.mp3"
-  ],
-  "added": "2026-02-19",
-  "updated": "2026-02-19"
-},
+      "name": "tf2_heavy",
+      "display_name": "TF2 Heavy",
+      "version": "1.0.0",
+      "description": "TF2 Heavy sound pack from Team Fortress 2",
+      "author": {
+        "name": "Breadcat",
+        "github": "thebreadcat"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "session.end",
+        "task.acknowledge",
+        "task.progress",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 113,
+      "total_size_bytes": 5222535,
+      "source_repo": "thebreadcat/tf2-heavy-pack",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "3bf5c407fa3bd703762d4de2e9ab6eb6d92cf8283d69e6b6cbcdfdc9a8cc6c4c",
+      "tags": [
+        "gaming",
+        "tf2",
+        "valve",
+        "fps",
+        "heavy"
+      ],
+      "preview_sounds": [
+        "heavy_go01.mp3",
+        "heavy_thanks01.mp3",
+        "heavy_goodjob02.mp3",
+        "heavy_battlecry03.mp3"
+      ],
+      "added": "2026-02-19",
+      "updated": "2026-02-19"
+    },
     {
       "name": "tf2_spy",
       "display_name": "TF2 Spy",
@@ -3261,6 +3704,47 @@
       ],
       "added": "2026-02-18",
       "updated": "2026-02-18"
+    },
+    {
+      "name": "warcraft3-mix",
+      "display_name": "Warcraft III Mix CZ",
+      "version": "1.0.0",
+      "description": "Mix ikonick\u00fdch \u010desk\u00fdch hl\u00e1\u0161ek z Warcraft III od r\u016fzn\u00fdch jednotek a hrdin\u016f.",
+      "author": {
+        "name": "SgtMarmite",
+        "github": "SgtMarmite"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "cs",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 225,
+      "total_size_bytes": 17949988,
+      "source_repo": "SgtMarmite/peonping-warcraft3-mix",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "9f2ab8a55ee27ea1bef2c897242c4252133470c87a7cb96bd1e05c62530a7f3a",
+      "tags": [
+        "warcraft",
+        "warcraft3",
+        "blizzard",
+        "mix",
+        "rts"
+      ],
+      "preview_sounds": [
+        "PeonWhat4.wav",
+        "ArthasYes1.wav"
+      ],
+      "added": "2026-02-24",
+      "updated": "2026-02-24"
     },
     {
       "name": "wc2_human_ships",
@@ -3578,7 +4062,85 @@
       ],
       "added": "2026-02-13",
       "updated": "2026-02-13"
+    },
+    {
+      "name": "worms-armageddon",
+      "display_name": "Worms Armageddon",
+      "version": "1.0.0",
+      "description": "Classic voice samples from Worms Armageddon featuring the iconic British worm taunts and exclamations",
+      "author": {
+        "name": "Mina Tawadrous",
+        "github": "mtmac17"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.complete",
+        "task.error",
+        "input.required"
+      ],
+      "language": "en",
+      "license": "MIT",
+      "sound_count": 14,
+      "total_size_bytes": 179678,
+      "source_repo": "mtmac17/openpeon-worms-armageddon",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "d596c5402477d614746f7e1b4c9f904dabfbe786fdf5ebab22e3909ac2e12ef5",
+      "tags": [
+        "gaming",
+        "strategy",
+        "worms",
+        "team17",
+        "comedy"
+      ],
+      "preview_sounds": [
+        "sounds/greeting-hello.wav",
+        "sounds/done-excellent.wav"
+      ],
+      "added": "2026-02-19",
+      "updated": "2026-02-19"
+    },
+    {
+      "name": "zelda-a-link-to-the-past",
+      "display_name": "Zelda: A Link to the Past Sound Pack",
+      "version": "1.0.0",
+      "description": "Selected sound effects, jingles and music snippets from The Legend of Zelda: A Link to the Past",
+      "author": {
+        "name": "Henning Rokling",
+        "github": "hrokling"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 24,
+      "total_size_bytes": 24227328,
+      "source_repo": "hrokling/zelda-a-link-to-the-past",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "48387e8e22951872eb81249a73e1a259161ce2b355e979c0fb79d9f7fc7caa4c",
+      "tags": [
+        "zelda",
+        "nintendo",
+        "retro",
+        "game"
+      ],
+      "preview_sounds": [
+        "sounds/secret.wav",
+        "sounds/fairy.wav"
+      ],
+      "added": "2026-02-20",
+      "updated": "2026-02-20"
     }
   ],
-  "total_packs": 82
+  "total_packs": 86
 }
